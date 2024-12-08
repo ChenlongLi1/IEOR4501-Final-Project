@@ -1,0 +1,18 @@
+# Uber and yellowtaxi datasets
+*.parquet
+
+# Weather datasets
+*.csv
+
+# Taxi_zone files
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shp.xml
+*.shx
+
+# SQL and database
+*.sqlite
+*.db
